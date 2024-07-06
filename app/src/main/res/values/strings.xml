@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Operador1">Operador 1</string>
+    <string name="hint_Operador1">Digite solamente numeros</string>
+    <string name="Operador2">Operador 2</string>
+    <string name="Calcular">Calcular\n</string>
+</resources>
